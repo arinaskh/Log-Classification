@@ -1,0 +1,5 @@
+.env
+__pycache__/
+resources/output.csv
+.vscode/
+*.pyc
